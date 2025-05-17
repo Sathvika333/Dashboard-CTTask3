@@ -24,4 +24,5 @@ A critical part of the analysis was the use of a Sankey diagram to trace the flo
 Additional insights included the stock market participation, where a majority of the respondents had invested in the stock market and other investment avenues. Gender-wise analysis of gold investments showed that males invested more in gold than females, contributing to gender-based investment strategy insights.
 
 OUTPUT DASHBOARD:
-
+![Image](https://github.com/user-attachments/assets/c32db6f3-554a-45ae-b6c7-60459fba3e1d)
+![Image](https://github.com/user-attachments/assets/034e2566-ba83-4f0a-8146-3a51daa658ab)
